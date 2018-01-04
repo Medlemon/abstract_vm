@@ -1,0 +1,3 @@
+/goinfre/jerasmus/Desktop/Abstractvm/avm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/goinfre/jerasmus/Desktop/Abstractvm/avm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/goinfre/jerasmus/Desktop/Abstractvm/avm/cmake-build-debug/CMakeFiles/avm.dir
